@@ -10,7 +10,7 @@ Don't know why but i have ✨ _special_ ✨ addiction with a person whose name c
 - 🔭 I’m currently working on a software
 - 🌱 I’m currently learning about WEB 3.0 and solidity
 - 📫 How to reach me :- 
-      Telegram : @MauryaTrader, @football_Goat
+      Gmail : rajprateek874@gmail.com 
 - ⚡ Fun fact: Addiction with a person whose name contains 'AA' or 'AAA'
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekMaurya2&theme=dracula">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrateekMaurya2&show_icons=true&locale=en&layout=compact"/></p>
