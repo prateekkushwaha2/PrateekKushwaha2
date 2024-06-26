@@ -25,6 +25,6 @@ Don't know why but i have ✨ _special_ ✨ addiction with a person whose name c
 - 📫 How to reach me :- 
       Gmail : rajprateek874@gmail.com 
 - ⚡ Fun fact: Addiction with a person whose name contains 'AA' or 'AAA'
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekMaurya2&theme=dracula">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrateekMaurya2&show_icons=true&locale=en&layout=compact"/></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekKushwaha2&theme=dracula">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrateekKushwaha2&show_icons=true&locale=en&layout=compact"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrateekMaurya2&show_icons=true&locale=en"/></p>
