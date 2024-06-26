@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi, my name is Prateek Maurya. 
+Hi, my name is Prateek Kushwaha. 
 I'm a 16 year old programmer from India. 
 I'm fascinated by embedded systems, low level coding, microcontroller dev, blockchain technology, operating systems as well as console homebrew and custom firmwares.
 Most of the things I develop are open source and available for free for everyone to use here on my GitHub page.
