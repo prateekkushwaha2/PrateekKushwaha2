@@ -22,7 +22,8 @@ Expertise:-
 - 🔭 I’m currently working on a software
 - 🌱 I’m currently learning about WEB 3.0 and solidity
 - 📫 How to reach me :- 
-      Gmail : rajprateek874@gmail.com 
+      Gmail : rajprateek874@gmail.com
+      Founder : zerominus.in
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Prateekkushwaha2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
