@@ -29,3 +29,5 @@ Expertise:-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekKushwaha2&theme=dracula">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrateekKushwaha2&show_icons=true&locale=en&layout=compact"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prateekkushwaha2&show_icons=true&locale=en"/></p>
+<p>&nbsp;<img align="center" src="https://zerominus.in"/></p>
+
