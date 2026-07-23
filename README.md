@@ -1,7 +1,7 @@
 # 💫 About Me
 Hi, my name is Prateek Kushwaha. 
-I'm a 16 year old programmer from India. 
-I'm fascinated by embedded systems, low level coding, microcontroller dev, blockchain technology, operating systems as well as console homebrew and custom firmwares.
+I'm a 18 year old programmer from India. 
+I'm fascinated by embedded systems, low level coding, microcontroller dev, blockchain technology, operating systems cybersecurity as well as console homebrew and custom firmwares.
 Most of the things I develop are open source and available for free for everyone to use here on my GitHub page.
 
 Besides programming, I love playing football and sketching.
@@ -16,7 +16,8 @@ Expertise:-
       MySql,
       Solidity,
       Arudino,
-      Blockchain
+      Blockchain,
+      cybersecurity
 
 
 - 🔭 I’m currently working on a software
