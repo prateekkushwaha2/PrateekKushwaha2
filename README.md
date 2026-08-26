@@ -7,6 +7,7 @@ Most of the things I develop are open source and available for free for everyone
 Besides programming, I love playing football and sketching.
 Expertise:-
       Java,
+      Python,
       C++,
       JavaScript,
       NodeJS,
